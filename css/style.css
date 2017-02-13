@@ -1,0 +1,22 @@
+	.main{
+		height: auto;
+		width: 100%;
+	}
+    .main_esas{
+    	height: auto;
+    	width: 33%;
+    	display: inline-block
+    }
+    .color_red{
+    	background: red;
+    }
+    .color_black{
+    	background: black;
+    }
+    .color_pink{
+    	background: pink;
+    }
+    img{
+    	width: 100%;
+    	height: 100%;
+    }
